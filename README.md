@@ -1,3 +1,3 @@
 # UnitedPlaylists
 
-Sharing playlists between streaming services
+Scrapped. Go <a href="https://github.com/ryanwilliamske/unitedplaylistsx">here</a>
